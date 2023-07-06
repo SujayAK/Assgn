@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 To run the json server, in another terminal , run the following command
-### 'npx json-server -p 4000 -w data/db.json'
+### `npx json-server -p 4000 -w data/db.json`
 
 
 The page will reload when you make changes.\
